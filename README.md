@@ -29,3 +29,6 @@
 * JavaScript
 * Leaflet.js
 * D3.js
+
+## The Image 
+![alt text](https://github.com/mrbalikci/world-quakes/blob/master/snip.PNG)
